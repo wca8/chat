@@ -12,10 +12,16 @@
 	}
 </script>
 
-<style>
+<style lang="scss" >
+	.status_bar {
+		height: var(--status-bar-height);
+		width: 100%;
+	}
 	/*每个页面公共css */
 	body{
 	/* 	padding: 30rpx;
 		box-sizing: border-box; */
+		/* padding-top:var(--status-bar-height+(80rpx)); */
+		padding-top:calc(var(--status-bar-height) + 80rpx);
 	}
 </style>

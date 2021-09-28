@@ -16,9 +16,9 @@
 				"enablePullDownRefresh":true,
 				"navigationStyle": "custom",
 				"navigationBarTextStyle":"black",
-				"app-plus":{
-					
-				}
+				"backgroundColor":"rgb(237, 237, 237)",
+				"navigationBarBackgroundColor":"rgb(237, 237, 237)"
+				
 			}
 		}
 		
@@ -28,6 +28,7 @@
             {
                 "navigationBarTitleText": "",
                 "enablePullDownRefresh": false
+				
             }
             
         }
@@ -37,7 +38,10 @@
             "style" :                                                                                    
             {
                 "navigationBarTitleText": "",
-                "enablePullDownRefresh": false
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"navigationBarTextStyle":"black",
+				"navigationBarBackgroundColor":"rgb(237, 237, 237)"
             }
             
         }
@@ -46,7 +50,10 @@
             "style" :                                                                                    
             {
                 "navigationBarTitleText": "",
-                "enablePullDownRefresh": false
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"navigationBarTextStyle":"black",
+				"navigationBarBackgroundColor":"rgb(237, 237, 237)"
             }
             
         }
@@ -55,7 +62,9 @@
             "style" :                                                                                    
             {
                 "navigationBarTitleText": "",
-                "enablePullDownRefresh": false
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"navigationBarTextStyle":"black"
             }
             
         }
